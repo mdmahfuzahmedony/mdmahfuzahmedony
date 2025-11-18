@@ -6,23 +6,20 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mahfuz Ahmed ony</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+    <P>MERN Stack Developer</P>
+
   </ul>
 </div>
 
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
-- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
+- 👋 Hi, I’m Mahfuz ahmed ony
+- 🖥️ I’m currently working on **React.js, and Next.js,  for frontend development.
+- 🗄️ Using **Node.js, Express.js,and MongoDB for the backend.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
   
 <br/>
 
@@ -31,10 +28,9 @@
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-    <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/mahfuzahmedony" target="_blank"><img src="https://i.ibb.co.com/HLJtmkyQ/image.png"  height="30" width="40" /></a>
+    <a href="https://discord.com/channels/@me" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    
   </p>
 </div>
 
