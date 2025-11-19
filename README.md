@@ -87,14 +87,4 @@ I'm a MERN Stack Developer passionate about building modern, scalable, and user�
 
 ---
 
-## 📁 Projects
 
-# 📌 Project Template
-
-| Section | Details |
-|---------|---------|
-| **Project Name** | Roam Rides |
-| **Description** | Roam Rides is a modern, user-friendly car rental web application built with the MERN stack. Users can browse, book, and manage cars effortlessly, while authenticated providers can list their own vehicles. Built with React, Node.js, MongoDB, and Express. |
-| **Screenshot** | ![Screenshot](https://i.ibb.co/Rp32Tyw0/image.png) |
-| **Tech Stack** | React, Node.js, MongoDB, Express |
-| **Important Links** | - Live Site: https://assigment-10-client-side-lul3.vercel.app/ <br> - GitHub Repo: https://github.com/mdmahfuzahmedony/Assigment_10_client_side |
