@@ -42,24 +42,20 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 
 ---
 
-## 🌍 Location & Contact
-📍 Sharsha, Jashore, Bangladesh  
-📧 mdmahfuzahmedony@gmail.com
+### 🌐 Contact & Connect
+
+| 📍 Location | 📧 Email | 🔗 Socials |
+| :--- | :--- | :--- |
+| **Sharsha, Jashore, Bangladesh** | [**mdmahfuzahmedony@gmail.com**](mailto:mdmahfuzahmedony@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK) |
 
 ---
 
-## 🔗 Connect with Me
-<div align="left" style="display: flex; gap: 10px;">
-<a href="https://www.linkedin.com/in/mahfuzahmedony/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/mdMahfuzAhmedony">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://mahfuzahmedony.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6F61?logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
+</p>
 
 ---
 
