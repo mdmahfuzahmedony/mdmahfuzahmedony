@@ -4,21 +4,28 @@
 <br/>
 
 # 👋 Hi, I'm Mahfuz Ahmed
-
-### 💻 MERN Stack Developer
+### 🚀 Full-Stack Web Developer | Next.js & MERN Expert
 
 ---
 
 ## 🌟 About Me
-I'm a MERN Stack Developer passionate about building modern, scalable, and user‑friendly web applications. I enjoy learning new technologies and improving my skills through real‑world projects.
+I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable, and user-centric web applications. With a strong foundation in the **MERN Stack**, I am now specializing in **Next.js**, **TypeScript**, and **Prisma** to create high-performance platforms. I love turning complex problems into elegant, functional code.
 
 ---
 
 ## 🔥 What I'm Currently Doing
-- 🌱 Exploring **Next.js**
-- 🚀 Working on a **queer service-related website**
-- 📘 Learning advanced **MERN features**
-- 🎯 Building full‑stack applications for practice
+- 🌐 Building **[Eidgah BD](https://github.com/your-username/eidgah-bd)** — A comprehensive portal for Eid prayer schedules across Bangladesh.
+- 🌱 Deep diving into **Type-Safety** with **TypeScript** and **Prisma ORM**.
+- 🐳 Exploring **Docker** for containerization and **DevOps** workflows.
+- ⚡ Mastering real-time communication using **Socket.io**.
+- 📘 Studying **Rust** to explore systems programming and performance.
+
+---
+
+## 🎯 My Focus
+- 🏗️ Architecting scalable Full-Stack applications.
+- 🎨 Creating premium, responsive UIs with **Tailwind CSS**.
+- 🔒 Implementing secure authentication and optimized database structures.
 
 ---
 
