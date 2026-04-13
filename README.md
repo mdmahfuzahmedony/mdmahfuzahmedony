@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/2YkFw4ts/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Banner" />
+<img src="https://i.ibb.co.com/rWGPc5X/Blue-and-White-Modern-Business-Profile-Linked-In-Background-Photo.png" />
 
 <br/>
 
