@@ -57,13 +57,13 @@ I'm a MERN Stack Developer passionate about building modern, scalable, and userâ
 
 ## ðŸ”— Connect with Me
 <div align="left" style="display: flex; gap: 10px;">
-<a href="https://www.linkedin.com/in/yourusername/">
+<a href="https://www.linkedin.com/in/mahfuzahmedony/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/mdMahfuzAhmedony">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://yourportfolio.com">
+<a href="https://mahfuzahmedony.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF6F61?logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
