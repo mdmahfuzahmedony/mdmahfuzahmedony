@@ -50,23 +50,14 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
-</p>
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
----
-
-## 🖥️ Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+| Category | Tools & Stats |
+| :--- | :--- |
+| **Programming Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Currently Learning** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![DevOps](https://img.shields.io/badge/devops-2496ED?style=for-the-badge&logo=google-cloud-run&logoColor=white) |
+| **GitHub Stats** | <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" /> |
+| **Most Used Languages** | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" /> |
 
 ---
 
