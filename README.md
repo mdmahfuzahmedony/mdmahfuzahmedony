@@ -61,10 +61,5 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 
 ---
 
-## 🌱 Currently Learning
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![DevOps](https://img.shields.io/badge/devops-2496ED?style=for-the-badge&logo=google-cloud-run&logoColor=white)
----
 
 
