@@ -83,8 +83,8 @@ I'm a MERN Stack Developer passionate about building modern, scalable, and userâ
 
 ## ðŸŒ± Currently Learning
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-000000?logo=azure-devops&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![DevOps](https://img.shields.io/badge/devops-2496ED?style=for-the-badge&logo=google-cloud-run&logoColor=white)
 ---
 
 
