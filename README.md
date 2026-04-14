@@ -14,7 +14,7 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 ---
 
 ## 🔥 What I'm Currently Doing
-- 🌐 Building **[Eidgah BD](https://github.com/your-username/eidgah-bd)** — A comprehensive portal for Eid prayer schedules across Bangladesh.
+- 🌐 Building **[Eidgah BD](https://github.com/mdMahfuzAhmedony)** — A comprehensive portal for Eid prayer schedules across Bangladesh.
 - 🌱 Deep diving into **Type-Safety** with **TypeScript** and **Prisma ORM**.
 - 🐳 Exploring **Docker** for containerization and **DevOps** workflows.
 - ⚡ Mastering real-time communication using **Socket.io**.
@@ -46,7 +46,7 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 
 | 📍 Location | 📧 Email | 🔗 Socials |
 | :--- | :--- | :--- |
-| **Sharsha, Jashore, Bangladesh** | [**mdmahfuzahmedony@gmail.com**](mailto:mdmahfuzahmedony@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK) |
+| **Sharsha, Jashore, Bangladesh** | [**mdmahfuzahmedony@gmail.com**](mailto:mdmahfuzahmedony@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuzahmedony/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdMahfuzAhmedony) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahfuzahmedony.vercel.app/) |
 
 ---
 
