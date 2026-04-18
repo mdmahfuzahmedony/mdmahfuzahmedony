@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/rWGPc5X/Blue-and-White-Modern-Business-Profile-Linked-In-Background-Photo.png" />
+<img src="https://i.ibb.co.com/Xf6GnDWJ/linkedin-banner-v3.png" />
 
 <br/>
 
