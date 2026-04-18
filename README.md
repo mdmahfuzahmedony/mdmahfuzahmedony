@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co.com/Xf6GnDWJ/linkedin-banner-v3.png" />
+<img src="https://i.ibb.co.com/3YPjjPgR/linkedin-banner-final.png" />
 
 <br/>
 
